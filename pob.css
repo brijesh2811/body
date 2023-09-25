@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    background-color: #b98484;
+    color: #992424;
+    border: 3px solid #815353;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px 10px;
+}
+.nav{
+    background-color: rgb(22, 32, 32);
+    border-radius: 12px;
+}
+.nav ul{
+    overflow: auto;
+}
+.nav li{
+    float: left;
+    list-style: none;
+    margin: 12px 12px;
+}
+.nav li a{
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 3px 3px;
+}
+.nav li a:hover{
+    background-color: antiquewhite;
+    border-radius: 12px;
+    color: #97e9c0;
+}
+.nav input{
+    border-radius: 12px;
+    margin:12px 12px;
+    float:right;
+    text-decoration:double;
+    text-align: center;
+}
+
+h2{
+     background-color: #d76565;
+    color: #97e9c0;
+    border: 3px solid #487d89;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+h3{
+     background-color: #b12384;
+    color: rgb(60, 192, 210);
+    border: 3px solid rgb(173, 76, 76);
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+#parts{
+    background-color: beige;
+    border: 0px solid black;
+    border-radius: 25px;
+    margin: 5px 5px;
+    padding: 15px 15px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.body{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+
+.brain{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+
+.lungs{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+
+.heart{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+
+.kidney{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+.liver{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+.stomach{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+.intestine{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    text-align: justify;
+}
+.male{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px; 
+    margin: 10px 10px;
+    text-align: justify;
+}
+.female{
+    background-color: rgb(236, 201, 240);
+    border: 3px solid pink;
+    border-radius: 25px;
+    padding: 12px 12px; 
+    margin: 10px 10px;
+    text-align: justify;
+}
+
+.bod{
+    box-sizing: border-box;
+    display: inline-flex;
+    width: 40%;
+
+}
